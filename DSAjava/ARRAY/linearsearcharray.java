@@ -1,7 +1,7 @@
 package ARRAY;
 
 public class linearsearcharray {
-    public static int LinearSearch(String menu[], int key)
+    public static int LinearSearch(String menu[], String key)
     {
         for(int i=0; i<menu.length;i++){
             if(menu[i]==key){
