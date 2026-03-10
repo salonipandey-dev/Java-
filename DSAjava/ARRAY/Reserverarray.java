@@ -7,7 +7,6 @@ public class Reserverarray {
         int last=numbers.length-1;
         while(first<last)
         {
-            //swap
             int temp=numbers[first];
             numbers[first]=numbers[last];
             numbers[last]=temp;
@@ -19,12 +18,12 @@ public class Reserverarray {
             System.out.print(numbers[i]+" ");
         }
     
-    return -1;
+    return 0;
     
  }
  public static void main(String args[])
  {
-     int numbers[]={1,2,3,4,5,6,7,8,9};
+     int numbers[]={1,3,5,7};
      ReserveA(numbers);
  }
 
