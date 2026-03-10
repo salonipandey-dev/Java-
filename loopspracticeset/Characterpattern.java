@@ -11,7 +11,6 @@ public class Characterpattern {
         System.out.println("enter the character:");
         char ch=sc.next().charAt(0);
         
-        //outer loop 
         for(int line=1;line<=num;line++){
             for(int chara=1; chara<=line;chara++){
                 System.out.print(ch);
