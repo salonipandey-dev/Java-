@@ -1,3 +1,4 @@
+package loopspracticeset;
 import java.util.*;
 
 class Starpattern

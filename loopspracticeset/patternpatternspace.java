@@ -1,3 +1,4 @@
+package loopspracticeset;   
 public class patternpatternspace {
     public static void main(String args[])
     {

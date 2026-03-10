@@ -1,3 +1,5 @@
+package loopspracticeset;
+
 import java.util.Scanner;
 
 public class Characterpattern {
