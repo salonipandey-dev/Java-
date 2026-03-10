@@ -1,5 +1,6 @@
 package loopspracticeset;
 
+
 import java.util.*;
 
 public class COuntnumber {
