@@ -14,5 +14,4 @@ public class UniqueNum {
     {
         int numbers[]={1,1,3,2,2,4,4};
         System.out.println(Unique(numbers));
-    }
-}
+    }}
