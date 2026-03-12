@@ -20,8 +20,7 @@ public class BinarySearch {
                 end=mid-1;
             }
         }
-        return -1;
-
+        return -1; //key not found
     }
 
     public static void main(String args[])
