@@ -7,7 +7,7 @@ public class  Bino {
         fact=fact*i;
 
     }  return fact;
-  }
+   }
  
 public static int Binomico(int a,int r) {
  int  n_fact=Factorialm(a);
