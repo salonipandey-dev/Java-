@@ -9,18 +9,17 @@ public class BinarySearch {
         {
             int mid=(start+end)/2;
 
-            //comparsion
+    
             if(numbers[mid]==key){
                 return mid;
             }
-            else if(numbers[mid]<key){  //right
-                start=mid+1;
+            else if(numbers[mid]<key){  
             }
             else{
                 end=mid-1;
             }
         }
-        return -1; //key not found
+        return -1; 
     }
 
     public static void main(String args[])
