@@ -13,7 +13,8 @@ public class BinarySearch {
             if(numbers[mid]==key){
                 return mid;
             }
-            else if(numbers[mid]<key){  
+            else if(numbers[mid]<key){
+                start=mid+1;
             }
             else{
                 end=mid-1;
