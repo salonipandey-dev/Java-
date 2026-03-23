@@ -14,11 +14,10 @@ public static int Binomico(int a,int r) {
  int r_fact= Factorialm(r);
  int nr_fact=Factorialm(a-r);
  int binco= n_fact/(r_fact*nr_fact);
- 
  return binco;
     
 }
-   
+  
 public static void main(String args[])
 {
    Scanner sc=new Scanner(System.in);
