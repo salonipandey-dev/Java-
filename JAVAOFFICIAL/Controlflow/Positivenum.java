@@ -13,9 +13,8 @@ public class Positivenum {
 
         }
        sc.close();
-       
+
     
-  }
-    
+  }   
 
 }
