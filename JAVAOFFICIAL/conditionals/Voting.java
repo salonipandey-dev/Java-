@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.Controlflow;
+package JAVAOFFICIAL.conditionals;
 import java.util.*;
 
 public class Voting {
