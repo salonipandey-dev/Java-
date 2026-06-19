@@ -1,5 +1,4 @@
 
-package JAVAOFFICIAL.conditionals;
 
 import java.util.Scanner;
 

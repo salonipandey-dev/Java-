@@ -1,4 +1,3 @@
-package OLDPracticesheet.loopspracticeset;
 import java.util.*;
 
 public class Multipleofnumm {
@@ -9,7 +8,7 @@ public class Multipleofnumm {
         
         for(int i=1; i<=10; i++)
         {
-         
+        
         System.out.println(a*i);
 
             

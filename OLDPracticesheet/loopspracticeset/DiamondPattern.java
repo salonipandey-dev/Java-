@@ -1,5 +1,3 @@
-package OLDPracticesheet.loopspracticeset;
-
 public class DiamondPattern {
     public static void main(String[] args) {
         int n = 3;

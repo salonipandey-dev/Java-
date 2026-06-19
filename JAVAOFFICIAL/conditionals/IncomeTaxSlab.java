@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.conditionals;
+
 
 public class IncomeTaxSlab {
     public static void main(String args[])

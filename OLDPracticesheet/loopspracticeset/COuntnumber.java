@@ -1,6 +1,5 @@
-package OLDPracticesheet.loopspracticeset;
-import java.util.*;
 
+import java.util.*;
 public class COuntnumber {
     
     public static void main(String args[])
@@ -20,15 +19,15 @@ public class COuntnumber {
         System.out.println(count);*/
         // taking input from user
 
-      Scanner sc=new Scanner(System.in);
-      System.out.println("enter the digits :");
-      int num=sc.nextInt();
-      int count=0;
-      if(num==0)
-      {
+    Scanner sc=new Scanner(System.in);
+    System.out.println("enter the digits :");
+    int num=sc.nextInt();
+    int count=0;
+    if(num==0)
+    {
         count = 1;
 
-      }else{
+    }else{
         while(num!=0)
         {
             num=num/10;
@@ -37,7 +36,6 @@ public class COuntnumber {
         }
         System.out.print(count);
         sc.close();
-      }
-       
+    } 
     }
 }

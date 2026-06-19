@@ -10,16 +10,14 @@ class Starpattern
         int num  =sc.nextInt();
     
 
-       for(int line=1; line<=num;line++){
-           for(int star=1; star<=line; star++)
-           {
+    for(int line=1; line<=num;line++){
+        for(int star=1; star<=line; star++)
+        {
             System.out.print("x");
-           }
-           System.out.println();
         }
-       
-       
-       sc.close();
+        System.out.println();
+        }
+        sc.close();
     } 
 
 }

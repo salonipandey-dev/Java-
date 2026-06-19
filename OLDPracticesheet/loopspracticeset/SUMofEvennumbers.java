@@ -1,12 +1,9 @@
-package OLDPracticesheet.loopspracticeset;
-
-
 import java.util.*;
 
 public class SUMofEvennumbers {
     public static void main(String args[])
     {
-       /*  for(int i=1;i<100;i++)
+    /*  for(int i=1;i<100;i++)
         {
             if(i%2==0)
             {
@@ -31,11 +28,11 @@ public class SUMofEvennumbers {
             System.out.println("odd");
         }
         
-           
+    
     }
     System.out.println("final sum of all the even numbers: " +sum);
     sc.close();
     
 }
- 
+
 }

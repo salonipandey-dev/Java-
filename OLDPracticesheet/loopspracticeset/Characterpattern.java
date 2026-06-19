@@ -1,4 +1,4 @@
-package OLDPracticesheet.loopspracticeset;
+package loopspracticeset;
 
 import java.util.Scanner;
 

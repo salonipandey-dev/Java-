@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.conditionals;
+
 import java.util.Scanner;
 
 public class Positivenum {
@@ -12,9 +12,9 @@ public class Positivenum {
             System.out.println("The number is positive.");
 
         }
-       sc.close();
+    sc.close();
 
     
-  }   
+}   
 
 }

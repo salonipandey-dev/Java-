@@ -1,4 +1,3 @@
-package JAVAOFFICIAL.conditionals;
 import java.util.*;
 
 public class Divisibleby5 {
@@ -16,8 +15,8 @@ public class Divisibleby5 {
         else
         {
             System.out.println(num + " is not divisible by 5.");
-      
-         }
+    
+        }
         sc.close();
     }
     

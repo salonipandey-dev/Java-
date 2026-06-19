@@ -1,5 +1,3 @@
-package JAVAOFFICIAL.conditionals;
-
 import java.util.Scanner;
 
 
@@ -8,8 +6,8 @@ public class CalculatorProg {
     {
         Scanner sc = new Scanner(System.in);
         //take input from user till user does not press X or x
-          while(true)
-          {
+        while(true)
+        {
             System.out.println("Enter the operator: +, -, *, / or X to exit");
             char op = sc.next().charAt(0);
             if(op == 'X' || op == 'x')

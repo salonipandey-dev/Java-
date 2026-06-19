@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.conditionals;
+
 import java.util.Scanner;
 
 public class MenudrivenStudentManagement {
