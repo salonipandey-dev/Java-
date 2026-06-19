@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "java.compile.workspace"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYear",
+            "request": "launch",
+            "mainClass": "JAVAOFFICIAL.conditionals.LeapYear",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "java.compile.workspace"
+        }
+    ]
+}
