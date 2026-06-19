@@ -1,4 +1,4 @@
-package loopspracticeset;
+package OLDPracticesheet.loopspracticeset;
 import java.util.*;
  
 public class Sumofnumbers
