@@ -8,7 +8,7 @@ public class Prime {
         System.out.println("enter the number:");
         int num = sc.nextInt();
         boolean isPrime = true;
-        
+
         if (num <= 1) {
             isPrime = false;
         } else {
@@ -19,15 +19,13 @@ public class Prime {
                 }
             }
         }
-        
+
         if (isPrime) {
             System.out.println(num + " is a prime number");
         } else {
             System.out.println(num + " is not a prime number");
         }
-        
+
         sc.close();
     }
 }
-
-    
