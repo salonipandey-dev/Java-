@@ -1,6 +1,5 @@
-package OLDPracticesheet.loopspracticeset;
+
 import java.util.*;
- 
 public class Sumofnumbers
 {
   public static void main(String args[])
