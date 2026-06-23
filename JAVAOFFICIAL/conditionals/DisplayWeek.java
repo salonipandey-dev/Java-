@@ -21,16 +21,16 @@ public class DisplayWeek {
                 System.out.println("Thursday");
                 break;
             case 5:
-                System.out.println("Friday");  
+                System.out.println("Friday");
                 break;
             case 6:
-                System.out.println("Saturday"); 
+                System.out.println("Saturday");
                 break;
             case 7:
-                System.out.println("Sunday");  
-                break;  
+                System.out.println("Sunday");
+                break;
             default:
-                System.out.println("Invalid day number.");  
+                System.out.println("Invalid day number.");
         }
         sc.close();
     }
