@@ -48,7 +48,8 @@ public class CalculatorProg {
                 default:
                     System.out.println("Invalid operator. Please try again.");
             }
-          }
+
+        }
         sc.close();
 
     }
