@@ -8,7 +8,7 @@ public class ReverseNumberTriangle{
                 System.out.print(j);
             }
             System.out.println();
-        } 
+        }
     }
     
 }

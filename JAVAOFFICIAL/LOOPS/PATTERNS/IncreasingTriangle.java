@@ -8,7 +8,7 @@ public class IncreasingTriangle {
                 System.out.print("* ");
             }
             System.out.println(" ");
-        } 
+        }
     }
     
 }

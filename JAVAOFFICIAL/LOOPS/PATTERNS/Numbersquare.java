@@ -8,7 +8,7 @@ public class Numbersquare {
                 System.out.print("1 ");
             }
             System.out.println(" ");
-        } 
+        }
     }
     
 }

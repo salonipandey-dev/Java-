@@ -8,7 +8,7 @@ public class DecreasingTriangle {
                 System.out.print("* ");
             }
             System.out.println(" ");
-        } 
+        }
     
     }
 }
