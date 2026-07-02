@@ -8,5 +8,4 @@ public class Print1to100 {
             System.out.println(i);
         }
     }
-    
 }

@@ -26,7 +26,6 @@ public class ArmStrongnum {
         }
     
         return sum == ori;
-
     }
     
 }

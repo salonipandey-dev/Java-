@@ -17,7 +17,7 @@ public class Fibaonaaci {
 
         }
         
-        sc.close();  
+        sc.close();
 
     }
 
