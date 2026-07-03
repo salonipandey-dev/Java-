@@ -1,3 +1,4 @@
+package JAVAOFFICIAL.LOOPS.PATTERNS.StarPatterns;
 public class InVersepatternright {
     public static void main(String[] args) {
         int n=5;
