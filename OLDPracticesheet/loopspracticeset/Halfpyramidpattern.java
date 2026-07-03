@@ -17,7 +17,7 @@ class Halfpyramidpattern
         System.out.println();
       }
       
-       sc.close();
+    sc.close();
     }
     
 }
