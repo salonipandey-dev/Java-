@@ -7,7 +7,6 @@ public class LargestInarray {
             if (Largest < numbers[i]) {
                 Largest = numbers[i];
             }
-           
         }
         System.out.println("Largest number is " + Largest);
         return Largest;
