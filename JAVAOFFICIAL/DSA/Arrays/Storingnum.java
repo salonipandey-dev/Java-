@@ -13,7 +13,16 @@ public class Storingnum {
             System.out.print(arr[i]);
             System.out.print(" ");
         }
-        
+        System.out.println();
+        System.out.println(arr[0]);
+        System.out.println(arr[4]);
+        arr[2]=4;
+        System.out.println(arr[2]);
+        System.out.println(arr[0]);
+        System.out.println(arr[4]);
+        System.out.println(arr[1]);
+        System.out.println(arr[3]);
+    
     }
     
 }
