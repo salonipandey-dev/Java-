@@ -26,8 +26,8 @@ public class BinarySearch {
             
         }
         public static void main(String[] args) {
-            int[] arr={1,2,3,4,5,6,7,8,9};
-            int target=5;
+            int[] arr={-4,3,6,23,56,78,98,100,122,133,144};
+            int target=98;
             int result=binarySearch(arr,target);
             if(result==-1)
             {

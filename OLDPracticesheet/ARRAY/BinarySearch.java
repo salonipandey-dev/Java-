@@ -25,8 +25,8 @@ public class BinarySearch {
 
     public static void main(String args[])
     {
-        int numbers[]={1,2,93,6,3,52,42,32,5,8};
-        int key=32;
+        int numbers[]={-4,3,6,23,56,78,98,100,122,133,144};
+        int key=98;
         int result=BinaryS(numbers, key);
         System.out.println("Index for key found at :" + result);
 
