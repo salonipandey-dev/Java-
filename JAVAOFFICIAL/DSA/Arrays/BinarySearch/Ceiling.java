@@ -8,6 +8,10 @@ public class Ceiling {
         while(start<=end)
         {
             int mid=start+(end-start)/2;
+            if(target>arr[arr.length-1])
+            {
+                return -1;
+            }
             if(arr[mid]<target)
             {
                 start=mid+1;
