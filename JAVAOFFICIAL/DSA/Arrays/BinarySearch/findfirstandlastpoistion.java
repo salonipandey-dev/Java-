@@ -10,12 +10,13 @@ public class findfirstandlastpoistion {
     static int findFirst(int[] nums, int target) {
         int start= 0;
         int  end = nums.length - 1;
-        int first = -1;
+        int first=-1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
             if (nums[mid] == target) {
                 first = mid;
+            
                 end = mid - 1; // Continue searching in the left half
             } else if (nums[mid] < target) {
                 start = mid + 1;
