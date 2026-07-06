@@ -1,7 +1,7 @@
 package JAVAOFFICIAL.DSA.Arrays.BinarySearch;
 
-public class Ceiling {
-    static int ceilingArray(int[] arr, int target)
+public class FloorofNum {
+    static int floorArr(int[] arr,int target)
     {
         int start =0;
         int end=arr.length-1;
@@ -20,15 +20,14 @@ public class Ceiling {
             {
                 return mid;
             }
-
         }
-        return arr[start];
+        return arr[end];
     }
     public static void  main(String[] args)
     {
         int[] arr={2,3,5,9,14,16,18};
         int target=15;
-        int ans=ceilingArray(arr,target);
+        int ans=floorArr(arr,target);
         System.out.println(ans);
     }
     
