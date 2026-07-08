@@ -2,7 +2,7 @@ package JAVAOFFICIAL.DSA.Arrays.BinarySearch;
 
 public class Roatationcount {
     public static void main(String[] args) {
-        int[] arr={4,5,6,7,0,1,2};
+        int[] arr={0,1,2};
         System.out.println(count(arr));
     }
     static int Findpivot(int[] arr)
