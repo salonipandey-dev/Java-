@@ -11,5 +11,8 @@ public class FindMissing {
         int i=0;
         while(i<arr.length)
         {
-            
+        }
+        return -1;
+    }
+    
 }
