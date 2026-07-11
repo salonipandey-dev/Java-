@@ -3,7 +3,8 @@ public class Basic
 {
     public static public static void main(String[] args) {
         {
-            String name="kunal";
+             name= new String("kunal");
+            System.out.println(name);
         }
     }
 
