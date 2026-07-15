@@ -16,10 +16,11 @@ public class BinarySearchrec {
         if (arr[mid] == target) {
             return mid; // Target found
         }
-        if (arr[mid] < target) {
-            return binarySearch(arr, target, mid + 1, right); // Search in the right half
-        }
+        if (arr[mid] > target) {
             return binarySearch(arr, target, left, mid - 1); // Search in the left half
+        }
+            return binarySearch(arr, target, mid + 1, right); // Search in the right half
+    }
         
     }
     
