@@ -7,5 +7,5 @@ public class FindDistintnumber {
         System.out.println();
     }
     public static int
-    
+
 }
