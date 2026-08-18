@@ -4,7 +4,7 @@ public class LinearSearch {
     static int linearSearch(int[] arr, int target)
     {
         for(int index=0;index<arr.length;index++)
-        {
+            {
             if(arr[index]==target)
             {
                 return index;
