@@ -1,4 +1,3 @@
-package JAVAOFFICIAL.DSA.Arrays.Linearsearch;
 
 public class CountOccurence {
     static int CountOccur(int[] arr, int target)

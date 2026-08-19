@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.DSA.Arrays.Linearsearch;
+
 
 public class FirstOccurence {
     static int FirstOccur(int[] arr, int target)

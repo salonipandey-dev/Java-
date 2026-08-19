@@ -1,4 +1,3 @@
-package JAVAOFFICIAL.DSA.Arrays.Linearsearch;
 
 public class LastOccurence {
     static int LastOccur(int[]arr, int target)

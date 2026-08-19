@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.DSA.Arrays.Linearsearch;
+
 
 public class FindIndex {
     static int LinearSearch(int[] arr, int tar)

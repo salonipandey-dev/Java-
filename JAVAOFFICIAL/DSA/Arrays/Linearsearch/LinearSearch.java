@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.DSA.Arrays.Linearsearch;
+
 
 public class LinearSearch {
     static int linearSearch(int[] arr, int target)

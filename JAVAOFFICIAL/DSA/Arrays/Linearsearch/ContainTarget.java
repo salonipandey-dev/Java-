@@ -1,4 +1,4 @@
-package JAVAOFFICIAL.DSA.Arrays.Linearsearch;
+
 
 public class ContainTarget {
     static boolean Contain(int[] arr, int target)
