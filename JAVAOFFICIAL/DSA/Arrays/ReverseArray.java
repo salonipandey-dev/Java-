@@ -15,11 +15,11 @@ class ReverseArray
     }
     public static void main(String[] args)
     {
-        int[] arr = {4, 8, 15, 16, 23, 42};
-        int result =reverseArray(arr);
+        int[] arr = {7, 2, 9, 4, 1};
+        reverseArray(arr);
         for(int i = 0; i<arr.length;i++)
         {
-            System.out.println("Reversed Array " ,+result);
+            System.out.print(arr[i] +" ");
         }
     }
 }
