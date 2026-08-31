@@ -6,6 +6,5 @@ public class FindError {
         int age = 20;
 
         System.out.println(age);
-
     }
 }  //the error was INT and ;
