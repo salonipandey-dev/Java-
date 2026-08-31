@@ -13,7 +13,7 @@ class ReverseArray
             right--;
         }
     }
-    public static void main(String[] args)
+    public static void main(Strign[] args)
     {
         int[] arr = {7, 2, 9, 4, 1};
         reverseArray(arr);
