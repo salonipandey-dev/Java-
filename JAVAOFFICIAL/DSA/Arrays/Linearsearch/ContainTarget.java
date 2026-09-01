@@ -12,11 +12,38 @@ public class ContainTarget {
         }
         return false;
     }
+    ppackage JAVAOFFICIAL.DSA.Arrays;
+
+public class Minof {
+    static void MinOfArray(int[] arr)
+    {
+        int Min=Integer.MAX_VALUE;
+        for(int i=0;i<arr.length;i++)
+        {
+            if(Min>arr[i])
+            {
+                Min =arr[i];
+            }
+        }System.out.println("The minimum :" +Min);
+
+    }
     public static void main(String[] args) {
-        int[] arr={4, 7, 2, 7, 9, 7, 1};
-        int target=7;
-        boolean result=Contain(arr,target);
-        System.out.println("Key found :" + result);
+        int[] arr1= {1,2,4,7,8,3};
+        MinOfArray(arr1);
+        
     }
     
 }
+package JAVAOFFICIAL.DSA.Arrays;
+
+public class Minof {
+    static void MinOfArray(int[] arr)
+    {
+        int Min=Integer.MAX_VALUE;
+        for(int i=0;i<arr.length;i++)
+        {
+            if(Min>arr[i])
+            {
+                Min =arr[i];
+            }
+        }System.out.println("The minimum :" +Min);
