@@ -1,0 +1,194 @@
+DSA-JAVA/
+│
+├── README.md
+├── PROGRESS.md
+│
+├── 01-Fundamentals/
+│   ├── theory/
+│   └── problems/
+│       ├── basic/
+│       └── complexity/
+│
+├── 02-Maths-Patterns-Recursion/
+│   ├── theory/
+│   ├── maths/
+│   │   ├── easy/
+│   │   ├── medium/
+│   │   └── hard/
+│   ├── patterns/
+│   │   ├── easy/
+│   │   ├── medium/
+│   │   └── hard/
+│   └── recursion/
+│       ├── easy/
+│       ├── medium/
+│       └── hard/
+│
+├── 03-Arrays-Strings/
+│   ├── theory/
+│   ├── arrays/
+│   │   ├── easy/
+│   │   ├── medium/
+│   │   └── hard/
+│   ├── strings/
+│   │   ├── easy/
+│   │   ├── medium/
+│   │   └── hard/
+│   └── matrix/
+│
+├── 04-Searching/
+│   ├── theory/
+│   ├── linear-search/
+│   ├── binary-search/
+│   ├── search-on-answer/
+│   └── two-sorted-arrays/
+│
+├── 05-Sorting/
+│   ├── theory/
+│   ├── basic/
+│   ├── quick-sort/
+│   ├── merge-sort/
+│   └── cycle-sort/
+│
+├── 06-Bit-Manipulation/
+│   ├── theory/
+│   ├── easy/
+│   ├── medium/
+│   ├── arrays/
+│   └── subsets/
+│
+├── 07-Hashing/
+│   ├── theory/
+│   ├── basic/
+│   ├── frequency/
+│   └── subsequence/
+│
+├── 08-Two-Pointer/
+│   ├── theory/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── 09-Sliding-Window/
+│   ├── theory/
+│   ├── fixed-window/
+│   ├── variable-window/
+│   ├── minimum-length/
+│   ├── count-subarrays/
+│   └── hashing/
+│
+├── 10-Prefix-Sum/
+│   ├── theory/
+│   ├── basic/
+│   ├── prefix-suffix/
+│   ├── difference-array/
+│   └── hashing/
+│
+├── 11-Backtracking/
+│   ├── theory/
+│   ├── medium/
+│   └── hard/
+│
+├── 12-Linked-List/
+│   ├── theory/
+│   ├── implementation/
+│   ├── reversal/
+│   ├── fast-slow-pointer/
+│   ├── sorting-merging/
+│   ├── design/
+│   └── hard/
+│
+├── 13-Stack/
+│   ├── theory/
+│   ├── operations/
+│   ├── expressions/
+│   ├── design/
+│   ├── monotonic-stack/
+│   └── string-simulation/
+│
+├── 14-Queue/
+│   ├── theory/
+│   ├── easy/
+│   └── medium/
+│
+├── 15-Deque/
+│   ├── theory/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── 16-Binary-Tree/
+│   ├── theory/
+│   ├── traversal/
+│   ├── easy/
+│   ├── medium/
+│   ├── horizontal-distance/
+│   └── hard/
+│
+├── 17-BST/
+│   ├── theory/
+│   ├── operations/
+│   ├── traversal/
+│   ├── construction/
+│   └── properties/
+│
+├── 18-Heap/
+│   ├── theory/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── 19-Graph/
+│   ├── theory/
+│   ├── representation/
+│   ├── bfs-dfs/
+│   ├── topological-sort/
+│   ├── shortest-path/
+│   ├── multi-source-bfs/
+│   └── mst-dsu/
+│
+├── 20-Greedy/
+│   ├── theory/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── 21-Dynamic-Programming/
+│   ├── theory/
+│   ├── 1D-DP/
+│   ├── 2D-DP/
+│   ├── subsequence/
+│   ├── grid/
+│   ├── string/
+│   ├── stock/
+│   ├── LIS/
+│   └── partition/
+│
+├── 22-Number-Theory/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+│
+├── 23-Trie/
+│   ├── implementation/
+│   ├── bit-manipulation/
+│   └── advanced/
+│
+├── 24-String-Matching/
+│   ├── theory/
+│   ├── rabin-karp/
+│   ├── kmp/
+│   ├── z-algorithm/
+│   └── manacher/
+│
+├── 25-Range-Query/
+│   ├── segment-tree/
+│   ├── lazy-propagation/
+│   ├── applications/
+│   └── fenwick-tree/
+│
+└── 99-Revision/
+    ├── mistakes/
+    ├── patterns/
+    ├── interview-problems/
+    └── timed-practice/
